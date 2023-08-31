@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://santuportfolionew.web.app/](https://santuportfolionew.web.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN ,Opp,Data Structure,RDBMS**
 
 - 📫 How to reach me **janaa7223@gmail.com**
 
