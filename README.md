@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Santu Jana</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img alilgn ="right" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akku27-cse&label=Profile%20views&color=0e75b6&style=flat" alt="akku27-cse" /> </p>
