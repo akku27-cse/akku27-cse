@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **React,Js,Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://santuportfolionew.web.app/](https://santuportfolionew.web.app/)
 
 - 💬 Ask me about **MERN ,Opp,Data Structure,RDBMS**
 
