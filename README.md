@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React,Js,Mongodb**
 
 
-- 💬 Ask me about **MERN ,Opp,Data Structure,RDBMS**
+- 💬 Ask me about **MERN ,Oop,Data Structure,RDBMS**
 
 - 📫 How to reach me **janaa7223@gmail.com**
 
