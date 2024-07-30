@@ -9,7 +9,7 @@
 
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=akku27-cse&label=Profile%20views&color=9834eb&style=flat" alt="bishnudev1" />     
+  <img src="https://komarev.com/ghpvc/?username=akku27-cse&label=Profile%20views&color=9834eb&style=flat" alt="santu" />     
   
   ![GitHub User's stars](https://img.shields.io/github/stars/akku27-cse?style=social) 
   [![GitHub followers](https://img.shields.io/github/followers/akku27-cse?style=social)](https://github.com/akku27-cse)
@@ -17,8 +17,9 @@
 
 
 ## Connect with me here:  
-[![Instagram](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=instagram)](https://www.instagram.com/__weirdophile20/)
-[![Linkedin](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bishnudevkhutia/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/AK-A-Sh/pfbid02K9xyP8uroY16VCHmPFGGffvoCw6j5xr31eBfbpWvC9tw9UEzJNLTgdX2PRuz8aqFl/)
+[![Instagram](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=instagram)](https://www.instagram.com/ak_assh/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
+[![Linkedin](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santu-jana-29a923257/)
 ### *Few things about me*
 
 
@@ -149,6 +150,6 @@ Linux                    5 hrs 28 mins       █████████   30.00
 
 ---
 
-<p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
+
 
 
