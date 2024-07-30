@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Santu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Santu&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dipeshdas&icon=5&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center" style="color:blue;">Hi 👋, I'm Sastik Kumar Das</h1>
