@@ -9,7 +9,7 @@
 
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=bishnudev1&label=Profile%20views&color=9834eb&style=flat" alt="bishnudev1" />     
+  <img src="https://komarev.com/ghpvc/?username=akku27-cse&label=Profile%20views&color=9834eb&style=flat" alt="bishnudev1" />     
   
   ![GitHub User's stars](https://img.shields.io/github/stars/akku27-cse?style=social) 
   [![GitHub followers](https://img.shields.io/github/followers/akku27-cse?style=social)](https://github.com/akku27-cse)
