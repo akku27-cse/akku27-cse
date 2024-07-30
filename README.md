@@ -18,8 +18,8 @@
 
 ## Connect with me here:  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/AK-A-Sh/pfbid02K9xyP8uroY16VCHmPFGGffvoCw6j5xr31eBfbpWvC9tw9UEzJNLTgdX2PRuz8aqFl/)
-[![Instagram](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=instagram)](https://www.instagram.com/ak_assh/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
-[![Linkedin](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santu-jana-29a923257/)
+[![Instagram](https://img.shields.io/badge/Santu-0A66C2?&style=for-the-badge&logo=instagram)](https://www.instagram.com/ak_assh/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
+[![Linkedin](https://img.shields.io/badge/Santu-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santu-jana-29a923257/)
 ### *Few things about me*
 
 
