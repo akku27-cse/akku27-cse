@@ -6,9 +6,7 @@
 
 🔭 I’m currently working as a IT student.<br>🤝 I’m looking for help with growing the DSA skills.<br>🌱 I’m currently learning DSA, Frontend Development.<br>💬 Ask me about Problem Solving.<br>⚡ Fun fact - I'm very much foody🤗.
 
-### Hi there 👋
-### I am Santu Jana
-<img align="right" height="380px" width="380px" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47esbqa0b2z18ytzbasxgr9gqu15v17tpr3sxavmkx&rid=giphy.gif&ct=g"/>
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=bishnudev1&label=Profile%20views&color=9834eb&style=flat" alt="bishnudev1" />     
