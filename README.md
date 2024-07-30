@@ -1,3 +1,11 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=363536&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Dipesh+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Dipesh and Welcome to my Profile! animated typed out" width="100%"/>
+
+# 💫 About Me:
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+🔭 I’m currently working as a IT student.<br>🤝 I’m looking for help with growing the DSA skills.<br>🌱 I’m currently learning DSA, Frontend Development.<br>💬 Ask me about Problem Solving.<br>⚡ Fun fact - I'm very much foody🤗.
+
 ### Hi there 👋
 ### I am Santu Jana
 <img align="right" height="380px" width="380px" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47esbqa0b2z18ytzbasxgr9gqu15v17tpr3sxavmkx&rid=giphy.gif&ct=g"/>
