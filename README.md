@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React,Js,Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://santuportfolionew.web.app/](https://santuportfolionew.web.app/)
+- 👨‍💻 All of my projects are available at [https://668a5a544212c3ae917292d5--creative-tanuki-94dff3.netlify.app/](https://668a5a544212c3ae917292d5--creative-tanuki-94dff3.netlify.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **DSA AND JAVA(OOPS)**
 
-- 📫 How to reach me **janaa7223@gmail.com**
+- 📫 How to reach me **santujana1827@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
+- ⚡ Fun fact **I'm very much foody🤗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
