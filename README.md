@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Bishnudev Khutia
+### I am Santu Jana
 <img align="right" height="380px" width="380px" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47esbqa0b2z18ytzbasxgr9gqu15v17tpr3sxavmkx&rid=giphy.gif&ct=g"/>
 
 <p>
@@ -15,19 +15,13 @@
 [![Linkedin](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bishnudevkhutia/)
 ### *Few things about me*
 
--  ♠️ I'm Jack of All Trades ,master of None.
-- 🧑🏾‍💻 I don't love tags but you can call me a FullStack DevOps Engineer who loves writing Backend.
-- 👯 I'm currently trying to go into AI domain !
-- 🤔 I’m still trying to finish my education! I love intering/part-timing!
-- 😮 Pronouns **He/Him**
 
 ### Lovin' :heart: these since forever :
 ---
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![Dart](https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Go](https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+
 
 ### Frameworks that I work most :
 ---
