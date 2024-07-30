@@ -145,8 +145,10 @@ Linux                    5 hrs 28 mins       █████████   30.00
 <!--END_SECTION:waka-->
 
 ### My stats 🌠 :
-[![trophy](https://github-profile-trophy.vercel.app/?username=akku27-cse&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-![Streaks](https://streak-stats.demolab.com/?user=akku27-cse&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=akku27-cse&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akku27-cse&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akku27-cse&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
