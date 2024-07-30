@@ -1,3 +1,4 @@
+<div bgcolor="dark">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=363536&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Santu+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Santu and Welcome to my Profile! animated typed out" width="100%"/>
 
 # 💫 About Me:
@@ -152,6 +153,6 @@ Linux                    5 hrs 28 mins       █████████   30.00
 
 ---
 
-
+</div>
 
 
