@@ -1,68 +1,138 @@
+### Hi there 👋
+### I am Bishnudev Khutia
+<img align="right" height="380px" width="380px" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47esbqa0b2z18ytzbasxgr9gqu15v17tpr3sxavmkx&rid=giphy.gif&ct=g"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dipesh.das.1614460?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dipesh1321/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipesh-das-283b62200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/DipeshD67742864?s=08)  
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Santu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Santu&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Santu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Santu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Dipeshdas&icon=5&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center" style="color:blue;">Hi 👋, I'm Sastik Kumar Das</h1>
-<h3 align="center" style="color:blue;">A passionate Software developer</h3>
-<img align="center" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ptMnk5bmRncDN3aXZ3d3I2emg0cWZ1b2NmY28xZml3ajRvbXF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sastik&label=Profile%20views&color=0e75b6&style=flat" alt="Sastik" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sastik" alt="Sastik" /></a> </p>
-
-- 🌱 I’m currently learning *Full stack Development*
-
-- 👨‍💻 All of my projects are available at [https://sastik-kumar-das.vercel.app/](https://sastik-kumar-das.vercel.app/)
-
-- 💬 Ask me about *MERN*
-
-- 📫 How to reach me: *sastikkumardas@gmail.com*
-
-- ⚡ Fun fact: *I am Funny.*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sastik-kumar-das-2b1633213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sastik-kumar-das-2b1633213/" height="30" width="40" /></a>
-   
-   <a href="https://sastik-kumar-das.netlify.app/" target="blank">
-    <img align="center" src="https://lh3.googleusercontent.com/vdKbcWCGwxtvvoZG5LK-rQcix_6mXl7Z2zzVil3ggiZ6hUETgtSVdbw0hrNAbRoCTCuSt_yn4EJrBS5XzILlYBxGIhMuikJ9nVt1HVA5nI76zA5ludsdTQF9t-ANf4lZPV7Wli9JzTrA8fj1wa5YAgcza7EK1Y8uqcj92Hjm1jaJJ10OJAkdaQg6oB7lKQ" alt="Your Website" height="30" width="30" />
-  </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=bishnudev1&label=Profile%20views&color=9834eb&style=flat" alt="bishnudev1" />     
+  
+  ![GitHub User's stars](https://img.shields.io/github/stars/bishnudev1?style=social) 
+  [![GitHub followers](https://img.shields.io/github/followers/bishnudev1?style=social)](https://github.com/bishnudev1/)
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Santu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Santu&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## Connect with me here:  
+[![Instagram](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=instagram)](https://www.instagram.com/__weirdophile20/)
+[![Linkedin](https://img.shields.io/badge/bishnudev-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bishnudevkhutia/)
+### *Few things about me*
+
+-  ♠️ I'm Jack of All Trades ,master of None.
+- 🧑🏾‍💻 I don't love tags but you can call me a FullStack DevOps Engineer who loves writing Backend.
+- 👯 I'm currently trying to go into AI domain !
+- 🤔 I’m still trying to finish my education! I love intering/part-timing!
+- 😮 Pronouns **He/Him**
+
+### Lovin' :heart: these since forever :
+---
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![Dart](https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Go](https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+
+### Frameworks that I work most :
+---
+[![Scikit](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=ScikitLearn&logoColor=orange)](https://scikit-learn.org/stable/)
+[![Tensorflow](https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=Tensorflow&logoColor=orange)](https://www.tensorflow.org)
+[![openAI](https://img.shields.io/badge/openAI-000000?style=for-the-badge&logo=openAI&logoColor=green)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/Gemini-FFD43B?style=for-the-badge&logo=Google&logoColor=white)](https://ai.google.dev)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FFD43B?style=for-the-badge&logo=Streamlit&logoColor=blue)](https://streamlit.io)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=HuggingFace&logoColor=blue)](https://huggingface.co)
+[![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=BentoML&logoColor=blue)](https://www.bentoml.com)
+[![React](https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=blue)](https://flutter.dev/)
+[![GOOGLEPLAY](https://img.shields.io/badge/GooglePlay-000000?style=for-the-badge&logo=googleplay&logoColor=blue)](https://flutter.dev/)
+[![MongoDB](https://img.shields.io/badge/mongodb-10000?&style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Redis](https://img.shields.io/badge/Redis-323330?style=for-the-badge&logo=redis&logoColor=red)](https://redis.io/)
+[![Firebase](https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=orange)](https://expressjs.com/)
+[![ChakraUI](https://img.shields.io/badge/ChakraUI-000000?&style=for-the-badge&logo=chakraui)](https://chakra-ui.com/)
+[![NodeJS](https://img.shields.io/badge/NodeJS-000000?&style=for-the-badge&logo=node.js)](https://nodejs.org/en)
+[![Go](https://img.shields.io/badge/Go-100000?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=Vercel)](https://vercel.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
+[![AWS](https://img.shields.io/badge/AWS-000000?&style=for-the-badge&logo=amazon)](https://aws.amazon.com/)
+[![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-000000?&style=for-the-badge&logo=netlify)](https://app.netlify.com/)
+[![Github](https://img.shields.io/badge/GitHubActions-100000?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/)
+[![JSON](https://img.shields.io/badge/JSON-000000?&style=for-the-badge&logo=json)](https://www.json.org/)
+[![Appwrite](https://img.shields.io/badge/appwrite-430098?&style=for-the-badge&logo=appwrite)](https://appwrite.io/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![CPANEL](https://img.shields.io/badge/CPanel-000000?&style=for-the-badge&logo=cpanel)](https://cpanel.net/)
+[![CloudFlare](https://img.shields.io/badge/CloudFlare-000000?&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/)
+[![GoDaddy](https://img.shields.io/badge/GoDaddy-000000?&style=for-the-badge&logo=godaddy)](https://www.godaddy.com/)
+[![Linode](https://img.shields.io/badge/Linode-000000?&style=for-the-badge&logo=nginx)](https://www.linode.com/)
+
+### Techs that I know bit :zap: :
+---
+[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://www.figma.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-2CA5E0?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Figma](https://img.shields.io/badge/Figma-000000?&style=for-the-badge&logo=figma)](https://flask.palletsprojects.com/en/2.2.x/)
+[![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-100000?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
+[![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva)](https://www.canva.com/)
+[![Rust](https://img.shields.io/badge/Rust-000000?&style=for-the-badge&logo=rust)]([https://www.canva.com](https://www.rust-lang.org)/)
+[![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
+[![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
+[![NGINX](https://img.shields.io/badge/NGinX-100000?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-100000?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![GoogleCloud](https://img.shields.io/badge/GoogleCloud-100000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![000WebHost](https://img.shields.io/badge/000WebHost-100000?style=for-the-badge&logo=godaddy&logoColor=white)](https://in.000webhost.com/)
+
+### Things about me 🔍 :
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14346%20hrs%2049%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2400-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.0%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1442 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+🌆 Daytime                2834 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+🌃 Evening                2524 commits        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌙 Night                  2711 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  1750 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Wednesday                1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Thursday                 1252 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Friday                   2261 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Saturday                 667 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Sunday                   1075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+```
 
 
-<div style="display: flex;  margin-bottom: 20px; flex-direction: column; align-items: center; justify-content: center;">
-    <h3 align="left">Using Language analysis</h3>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sastik&show_icons=true&locale=en&layout=compact" alt="Sastik" /></p>
+📊 **This Week I Spent My Time On** 
 
-   <h3 align="left">Github states analysis </h3>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sastik&show_icons=true&locale=en" alt="Sastik" /></p>
+```text
+🕑︎ Time Zone: Asia/Kolkata
 
-   <h3 align="left">Overall work analysis </h3>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sastik&" alt="Sastik" /></p>
-</div>
+🔥 Editors: 
+VS Code                  15 hrs 8 mins       █████████████████████████   100.00 %
+Replit                   5 hrs 18 mins       ██████████   40.00 % 
+
+💻 Operating System:
+Mac                      45 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 8 mins       ██████████████████   70.00 %
+Linux                    5 hrs 28 mins       █████████   30.00 % 
+```
+
+
+ Last Updated on 24/04/2023 18:40:39 UTC
+<!--END_SECTION:waka-->
+
+### My stats 🌠 :
+[![trophy](https://github-profile-trophy.vercel.app/?username=bishnudev1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![Streaks](https://streak-stats.demolab.com/?user=bishnudev1&theme=gotham)
+
+---
+
+<p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
+
+<p align="center"><a href="https://www.buymeacoffee.com/bishnudevk8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
