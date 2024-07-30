@@ -19,7 +19,7 @@
 ### Lovin' :heart: these since forever :
 ---
 [![C](https://img.shields.io/badge/C-FFD43B?style=for-the-badge&logo=&logoColor=blue)](https://www.C.org/)
-[![Java](https://img.shields.io/badge/JAVA-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.java.org/)
+[![Java](https://img.shields.io/badge/JAVA-007ACC?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 
 
