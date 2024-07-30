@@ -23,55 +23,83 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 
 
-### Frameworks that I work most :
----
-[![Scikit](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=ScikitLearn&logoColor=orange)](https://scikit-learn.org/stable/)
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=Tensorflow&logoColor=orange)](https://www.tensorflow.org)
-[![openAI](https://img.shields.io/badge/openAI-000000?style=for-the-badge&logo=openAI&logoColor=green)](https://openai.com)
-[![Gemini](https://img.shields.io/badge/Gemini-FFD43B?style=for-the-badge&logo=Google&logoColor=white)](https://ai.google.dev)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FFD43B?style=for-the-badge&logo=Streamlit&logoColor=blue)](https://streamlit.io)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=HuggingFace&logoColor=blue)](https://huggingface.co)
-[![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=BentoML&logoColor=blue)](https://www.bentoml.com)
-[![React](https://img.shields.io/badge/React-FFD43B?style=for-the-badge&logo=react&logoColor=blue)](https://reactjs.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=blue)](https://flutter.dev/)
-[![GOOGLEPLAY](https://img.shields.io/badge/GooglePlay-000000?style=for-the-badge&logo=googleplay&logoColor=blue)](https://flutter.dev/)
-[![MongoDB](https://img.shields.io/badge/mongodb-10000?&style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
-[![Express](https://img.shields.io/badge/Express-323330?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Redis](https://img.shields.io/badge/Redis-323330?style=for-the-badge&logo=redis&logoColor=red)](https://redis.io/)
-[![Firebase](https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=orange)](https://expressjs.com/)
-[![ChakraUI](https://img.shields.io/badge/ChakraUI-000000?&style=for-the-badge&logo=chakraui)](https://chakra-ui.com/)
-[![NodeJS](https://img.shields.io/badge/NodeJS-000000?&style=for-the-badge&logo=node.js)](https://nodejs.org/en)
-[![Go](https://img.shields.io/badge/Go-100000?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=Vercel)](https://vercel.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
-[![AWS](https://img.shields.io/badge/AWS-000000?&style=for-the-badge&logo=amazon)](https://aws.amazon.com/)
-[![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-000000?&style=for-the-badge&logo=netlify)](https://app.netlify.com/)
-[![Github](https://img.shields.io/badge/GitHubActions-100000?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/)
-[![JSON](https://img.shields.io/badge/JSON-000000?&style=for-the-badge&logo=json)](https://www.json.org/)
-[![Appwrite](https://img.shields.io/badge/appwrite-430098?&style=for-the-badge&logo=appwrite)](https://appwrite.io/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![CPANEL](https://img.shields.io/badge/CPanel-000000?&style=for-the-badge&logo=cpanel)](https://cpanel.net/)
-[![CloudFlare](https://img.shields.io/badge/CloudFlare-000000?&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com/)
-[![GoDaddy](https://img.shields.io/badge/GoDaddy-000000?&style=for-the-badge&logo=godaddy)](https://www.godaddy.com/)
-[![Linode](https://img.shields.io/badge/Linode-000000?&style=for-the-badge&logo=nginx)](https://www.linode.com/)
+<h3 align="left">Languages Uses:</h3>
+<p align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
 
-### Techs that I know bit :zap: :
----
-[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://www.figma.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-2CA5E0?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Figma](https://img.shields.io/badge/Figma-000000?&style=for-the-badge&logo=figma)](https://flask.palletsprojects.com/en/2.2.x/)
-[![Next](https://img.shields.io/badge/Next-000000?&style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![Neo4j](https://img.shields.io/badge/Neo4j-100000?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
-[![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva)](https://www.canva.com/)
-[![Rust](https://img.shields.io/badge/Rust-000000?&style=for-the-badge&logo=rust)]([https://www.canva.com](https://www.rust-lang.org)/)
-[![MySQL](https://img.shields.io/badge/MySQL-000000?&style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
-[![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
-[![NGINX](https://img.shields.io/badge/NGinX-100000?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-100000?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![REACT NATIVE](https://img.shields.io/badge/ReactNative-100000?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
-[![GoogleCloud](https://img.shields.io/badge/GoogleCloud-100000?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-[![000WebHost](https://img.shields.io/badge/000WebHost-100000?style=for-the-badge&logo=godaddy&logoColor=white)](https://in.000webhost.com/)
+</p>
+
+<h3 align="left">Tools Uses:</h3>
+<p align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellijidea" width="40" height="40"/>
+  </a>
+  
+</p>
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
