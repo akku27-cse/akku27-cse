@@ -118,22 +118,12 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1442 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-🌆 Daytime                2834 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-🌃 Evening                2524 commits        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-🌙 Night                  2711 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌞 Morning                142 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+🌆 Daytime                234 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+🌃 Evening                224 commits        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌙 Night                  122 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
 ```
-📅 **I'm Most Productive on Friday** 
 
-```text
-Monday                   1213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Tuesday                  1750 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Wednesday                1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Thursday                 1252 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Friday                   2261 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-Saturday                 667 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Sunday                   1075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
@@ -143,24 +133,22 @@ Sunday                   1075 commits        ███░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  15 hrs 8 mins       █████████████████████████   100.00 %
-Replit                   5 hrs 18 mins       ██████████   40.00 % 
 
 💻 Operating System:
-Mac                      45 hrs 8 mins       █████████████████████████   100.00 % 
 Windows                  15 hrs 8 mins       ██████████████████   70.00 %
 Linux                    5 hrs 28 mins       █████████   30.00 % 
 ```
 
 
- Last Updated on 24/04/2023 18:40:39 UTC
+ Last Updated on 24/07/2024 18:40:39 UTC
 <!--END_SECTION:waka-->
 
 ### My stats 🌠 :
-[![trophy](https://github-profile-trophy.vercel.app/?username=bishnudev1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-![Streaks](https://streak-stats.demolab.com/?user=bishnudev1&theme=gotham)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akku27-cse&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![Streaks](https://streak-stats.demolab.com/?user=akku27-cse&theme=gotham)
 
 ---
 
 <p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
 
-<p align="center"><a href="https://www.buymeacoffee.com/bishnudevk8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
