@@ -147,6 +147,8 @@ Linux                    5 hrs 28 mins       █████████   30.00
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akku27-cse&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akku27-cse&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akku27-cse&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
