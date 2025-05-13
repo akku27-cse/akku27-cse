@@ -114,31 +114,6 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-14346%20hrs%2049%20mins-blue)
 
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                142 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-🌆 Daytime                234 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-🌃 Evening                224 commits        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-🌙 Night                  122 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-```
-
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-🔥 Editors: 
-VS Code                  15 hrs 8 mins       █████████████████████████   100.00 %
-
-💻 Operating System:
-Windows                  15 hrs 8 mins       ██████████████████   70.00 %
-Linux                    5 hrs 28 mins       █████████   30.00 % 
-```
-
-
  Last Updated on 24/07/2024 18:40:39 UTC
 <!--END_SECTION:waka-->
 
@@ -147,13 +122,13 @@ Linux                    5 hrs 28 mins       █████████   30.00
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akku27-cse&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akku27-cse&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akku27-cse&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akku27-cse&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+### 📊 Contribution Graph
+[![Santu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akku27-cse&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
