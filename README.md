@@ -133,6 +133,35 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akku27-cse&theme=radical&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+---
+
+### 🧠 Knowledge Graph
+```mermaid
+graph TD;
+  Programming[C Programming] --> DSA;
+  DSA --> C_Programs;
+  C_Programs --> If_Else;
+  C_Programs --> Functions;
+  C_Programs --> Data_Structures;
+  Frontend --> HTML;
+  Frontend --> CSS;
+  Frontend --> JavaScript;
+  Frontend --> React;
+  MobileDev --> ReactNative;
+  Backend --> FastAPI;
+  Database --> MongoDB;
+  Tools --> Docker;
+  Tools --> Git;
+  Tools --> GitHub;
+  Tools --> Figma;
+  Workflow --> Agile;
+  Workflow --> Microservices;
+  Learning --> ShellScripting;
+  Learning --> Python;
+```
+
+  
 </div>
 
 
