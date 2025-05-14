@@ -130,6 +130,9 @@
 ### 📊 Contribution Graph
 [![Santu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akku27-cse&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akku27-cse&theme=radical&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 
