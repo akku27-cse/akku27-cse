@@ -109,13 +109,6 @@
   
 </p>
 
-### Things about me 🔍 :
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14346%20hrs%2049%20mins-blue)
-
-
- Last Updated on 24/07/2024 18:40:39 UTC
-<!--END_SECTION:waka-->
 
 ### My stats 🌠 :
 ![](https://github-readme-stats.vercel.app/api?username=akku27-cse&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
